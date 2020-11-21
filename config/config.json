@@ -1,0 +1,7 @@
+{
+    "playlistName": "Sample Playlist Name",
+    "filePath": "/path/to/your/playlist/file",
+    "chromeDriverRelativePath": "drivers/chromedriver",
+    "userName": "user.name",
+    "password": "user.password"
+}

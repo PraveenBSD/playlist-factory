@@ -1,0 +1,6 @@
+signInButton = """/html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a/paper-button/yt-formatted-string"""
+userNameBox = """//*[@id="identifierId"]"""
+nextButton = """//*[@id="identifierNext"]/div/button/div[2]"""
+passwordBox = """//*[@id="password"]/div[1]/div/div[1]/input"""
+loginButton = """//*[@id="passwordNext"]/div/button/div[2]"""
+playlistCheck = """/html/body/ytd-app/ytd-popup-container/paper-dialog/ytd-add-to-playlist-renderer/div[2]/ytd-playlist-add-to-option-renderer[2]/paper-checkbox/div[2]/div/div/yt-formatted-string[1]"""
